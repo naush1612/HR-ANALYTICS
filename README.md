@@ -29,10 +29,6 @@ draw inferences.
 MS Excel,
 Power bi
 
-## Architecture:
-
-![image](https://github.com/seeratfatema/Ineuron_-entertainer_data_analysis/assets/115491132/1b17033f-f89c-490e-87bb-d0a3e642a804)
-
 ## Visualisations Include:
 Associate Degree,
 Bachelor's Degree,
